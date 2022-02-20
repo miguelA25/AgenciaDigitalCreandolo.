@@ -1,0 +1,599 @@
+#promocion {
+  background: black;
+}
+
+@media only screen and (max-width: 2880px) {
+  #section {
+    height: 80vh;
+  }
+  #video iframe {
+    height: 300px;
+    width: 450px;
+  }
+
+  #googlemaps {
+    display: none;
+  }
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #quieroo {
+    height: 30px;
+  }
+
+  #checkbox {
+    transform: translate(6%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  
+  #checkbox-ones {
+    transform: translate(14%, 0%);
+  }
+
+  #checkbox-two {
+    transform: translate(-0%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-6%, 0%);
+  }
+
+
+  #checkbox-tres {
+    transform: translate(2%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-2%, 0%);
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  #section {
+    height: 90vh;
+  }
+
+  #video iframe {
+    height: 300px;
+    width: 450px;
+  }
+
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-6%, -80%);
+  }
+
+  #checkbox-ones {
+    transform: translate(14%, 0%);
+  }
+
+  #googlemaps {
+    display: none;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  #section {
+    height: 65vh;
+  }
+
+  #video iframe {
+    height: 300px;
+    width: 450px;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(14%, 0%);
+  }
+
+  #checkbox-two {
+    transform: translate(-0%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-6%, 0%);
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #header .header-nav-main nav > ul > li {
+    height: 100%;
+    -ms-flex-item-align: stretch;
+    align-self: stretch;
+    margin-left: -5px;
+  }
+
+  #section {
+    height: 50vh;
+  }
+
+  #video iframe {
+    height: 300px;
+    width: 450px;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #checkbox {
+    transform: translate(8%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(18%, 0%);
+  }
+
+
+  #checkbox-two {
+    transform: translate(-0%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-7%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(2%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-3%, 0%);
+  }
+}
+
+@media only screen and (max-width: 966px) {
+  #checkbox {
+    transform: translate(7%, 0%);
+  }
+
+  #checkbox-two {
+    transform: translate(-3%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(18%, 0%);
+  }
+
+
+  #checkbox-tres {
+    transform: translate(6%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-9%, 0%);
+  }
+}
+
+
+@media only screen and (max-width: 912px) {
+
+  #checkbox-ones {
+    transform: translate(18%, 15%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-9%, -65%);
+  }
+
+}
+
+
+
+@media only screen and (max-width: 812px) {
+  #section {
+    height: 185vh;
+  }
+
+  #video iframe {
+    height: 300px;
+    width: 450px;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #checkbox {
+    transform: translate(7%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(18%, 0%);
+}
+
+  #checkbox-two {
+    transform: translate(-3%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-8%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(6%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-3%, 0%);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #section {
+    height: 90vh;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #video iframe {
+    height: 300px;
+    width: 450px;
+  }
+
+  
+  
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(17%, 0%);
+  }
+
+  #checkbox-two {
+    transform: translate(-3%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-9%, 0%);
+  }
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 740px) {
+  #checkbox-tres {
+    transform: translate(4%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-6%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(18%, 0%);
+  }
+
+
+}
+
+@media only screen and (max-width: 736px) {
+  #section {
+    height: 165vh;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #googlemaps {
+    display: none;
+  }
+
+  #checkbox {
+    transform: translate(15%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(1%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(18%, 0%);
+}
+
+  #checkbox-two {
+    transform: translate(-1%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-7%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(4%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-3%, 0%);
+  }
+}
+
+@media only screen and (max-width: 667px) {
+  #section {
+    height: 180vh;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+  #section {
+    height: 212vh;
+  }
+
+
+
+  
+  #checkbox {
+    transform: translate(11%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(15%, 0%);
+}
+
+  #checkbox-two {
+    transform: translate(-2%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-6%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(4%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-2%, 0%);
+  }
+
+
+
+  
+}
+
+@media only screen and (max-width: 414px) {
+  #section {
+    height: 80vh;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+  #googlemaps {
+    display: none;
+  }
+
+  #camara {
+    width: 140px;
+    height: 140px;
+  }
+
+  #video iframe {
+    height: 200px;
+    width: 350px;
+  }
+
+  #checkbox {
+    transform: translate(2%, 0%);
+  } 
+
+   #checkbox-one {
+    transform: translate(3%, 0%);
+  } 
+
+  #checkbox-ones {
+    transform: translate(13%, 0%);
+  } 
+
+  #checkbox-two {
+    transform: translate(-0%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-10%, -80%);
+  }
+
+  #checkbox-tres {
+    transform: translate(6%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-5%, 0%);
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  #section {
+    height: 95vh;
+  }
+
+  #googlemaps {
+    display: none;
+  }
+
+  .map-above {
+    min-height: 312px;
+    position: relative;
+  }
+
+  #camara {
+    width: 140px;
+    height: 140px;
+  }
+
+  #video iframe {
+    height: 250px;
+    width: 300px;
+  }
+
+
+  #checkbox {
+    transform: translate(-16%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(6%, 15%);
+  }
+  
+
+  #checkbox-ones {
+    transform: translate(4%, 0%);
+  }
+
+  #checkbox-two {
+    transform: translate(-4%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-11%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(8%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-5%, 0%);
+  }
+
+
+}
+
+
+@media only screen and (max-width: 360px) {
+  #checkbox {
+    transform: translate(-24%, 0%);
+}
+  #checkbox-one {
+  transform: translate(0%, 0%);
+}
+
+  #checkbox-ones {
+  transform: translate(2%, 10%);
+}
+
+  #checkbox-two-one {
+  transform: translate(-11%, 0%);
+}
+
+  #checkbox-tres {
+  transform: translate(8%, 0%);
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+
+  #video{
+     transform: translate(-2%, 0%);
+  }
+
+  #section {
+    height: 115vh;
+  }
+
+  #video-move {
+    transform: translate(-6%, 0%);
+  }
+
+  
+  #checkbox {
+    transform: translate(-38%, 0%);
+  }
+
+  #checkbox-one {
+    transform: translate(1%, 0%);
+  }
+
+  #checkbox-ones {
+    transform: translate(-13%, 0%);
+  }
+
+  #checkbox-two {
+    transform: translate(4%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(-14%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-for {
+    transform: translate(-8%, 0%);
+  }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 280px) {
+
+  #checkbox-ones {
+    transform: translate(-18%, 0%);
+  }
+
+  #checkbox-two-one {
+    transform: translate(0%, 0%);
+  }
+
+  #checkbox-tres {
+    transform: translate(-19%, 0%);
+  }
+
+
+}

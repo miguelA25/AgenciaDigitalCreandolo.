@@ -1,0 +1,39 @@
+#teams{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+
+#icons{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+
+
+#teams p{
+    color: black;
+}
+
+
+section{
+    background:  #09204d;
+   
+}
+
+body{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+
+
+section h3{
+   color: white;
+   background: linear-gradient(#09204d,#010817,#FC4B08);
+   margin-top: 50px;
+}
+
+
+
+.card-img-tops {
+    width: 80%;
+    margin-left: 43px;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+

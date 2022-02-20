@@ -1,0 +1,17 @@
+section{
+    background:  #09204d;
+   
+}
+
+
+
+section h3{
+   color: white;
+   background: linear-gradient(#09204d,#010817,#FC4B08);
+   margin-top: 50px;
+}
+
+body{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+

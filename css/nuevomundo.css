@@ -1,0 +1,43 @@
+.green {
+    color: green;
+}
+.red {
+    color: tomato;
+}
+.grey {
+    color: teal;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
+#background  {
+background: #f4f4f4;
+  
+}
+   
+.bold {
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul li {
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px;
+}
+
+.row {
+display: flex;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    
+}

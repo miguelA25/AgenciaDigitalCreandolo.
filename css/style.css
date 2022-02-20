@@ -1,0 +1,276 @@
+
+
+/* header */ /* header *//* header *//* header */
+
+#logo{
+    border-radius: 150px;
+}
+
+#header{
+    background: #212529;
+}
+
+#boton-header{
+    background:#FC4B08;
+    color: white;
+}
+
+#section{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+
+#letra{
+    color:#fff;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif ;
+   
+}
+
+#let{
+    color:#fff;
+    font-size: 25px;
+}
+
+#color-let{
+    color: #FC4B08;
+    font-size: 45px;
+}
+
+#let-one{
+ font-size: 48px;
+ color:  #fff ;
+}
+
+#let-two{
+font-size:large ;
+color: #fff;
+}
+
+
+#telefono{
+    transform: translate(5%, -2%);
+}
+
+#ajustar-tamaño{
+    height: 150px;
+}
+
+
+#space{
+  background: #212529;
+  height: 10px;
+}
+
+.wave-container img {
+    height: 50px;
+    width: 50px;
+}
+
+/* inicio */
+
+
+#img-ventajas{
+    height: 200px;
+    width: 200px;
+    float: inherit;
+}
+
+
+
+/* servicios */ /* servicios */ /* servicios */ /* servicios */
+
+#adelante{
+    height: 355px;
+}
+
+
+#back{
+    background: #09204d;
+    height: 355px;
+}
+
+
+
+#main-one li{
+    color: white;
+}
+
+#main-one p{
+    color: white;
+}
+
+
+#img-redes{
+    height: 410px;
+}
+
+
+#how-it-work{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+
+
+
+#COMMUNITY{
+    background: linear-gradient(#09204d,#010817,#FC4B08);
+}
+
+
+
+
+
+
+/* diseño */ /* diseño *//* diseño *//* diseño *//* diseño */
+
+#diseño-img{
+    height: 350px;
+    width: 350px;
+   
+}
+
+#boton-diseño{
+    background:#FC4B08;
+}
+
+
+#main h1{
+    color: #09204d ;
+}
+
+
+/* footer */                    /* footer */              /* footer */
+.btn-whatsapp{
+    display: block;
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 50%;
+    line-height: 80px;
+    text-align: center;
+    z-index: 999;
+}
+
+
+
+
+
+
+
+
+
+
+/* responsive desing */ /* responsive desing */ /* responsive desing */
+
+
+@media only screen and (min-width: 1450px) {
+
+    #onda{
+        display: none;
+    }
+       
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+    #let-one{
+        font-size: 40px;
+        color:  #f4645a ;
+       }
+
+       #telefono{
+        transform: translate(5%, -2%);
+    }
+    
+       
+
+}
+
+@media only screen and (max-width: 966px) {
+
+    #color-let{
+        color: #FC4B08;
+        font-size: 35px;
+    }
+ 
+       #telefono{
+        transform: translate(23%, 62%);
+    }
+    
+    
+}
+
+@media only screen and (max-width: 900px) {
+
+    #color-let{
+        color: #FC4B08;
+        font-size: 32px;
+    }
+
+    #telefono{
+        transform: translate(23%, 62%);
+    }
+ 
+ 
+}
+
+@media only screen and (max-width: 812px) {
+
+    #telefono{
+        transform: translate(23%, 62%);
+ }
+ 
+ 
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+    #let-one{
+        font-size: 32px;
+        color:  #f4645a ;
+       }
+
+       #telefono{
+        transform: translate(13%, 62%);
+ }
+ 
+       
+
+}
+
+
+
+@media only screen and (max-width: 667px) {
+
+ #suplirola {
+     display: none;
+ }
+
+}
+
+@media only screen and (max-width: 414px) {
+
+    #color-let{
+        color: #FC4B08;
+        font-size: 22px;
+    }
+
+       #telefono{
+        transform: translate(0%, -2%);
+
+       }
+
+       #diseño-img{
+        height: 300px;
+        width: 250px;
+    }
+    
+    
+       
+
+}
